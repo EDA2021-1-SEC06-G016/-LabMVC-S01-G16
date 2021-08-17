@@ -1,1 +1,3 @@
-En este directorio van los datos de prueba de los proyectos
+Juan Sebastian Castro Garay 
+js.Castrog@uniandes.edu.co
+201813107
